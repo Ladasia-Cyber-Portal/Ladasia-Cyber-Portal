@@ -8,7 +8,7 @@ Hello, my name is Ladasia Lewis, and I am a cybersecurity professional with impe
 
 * 🌍  I'm based in Maryland
 * ✉️  You can contact me at [Ladasialewiss72@gmail.com](mailto:Ladasialewiss72@gmail.com)
-* 🚀  I'm currently working on [Google Cybersecurity Professional Certificate](http://https://www.coursera.org/)
+* 🚀  I'm currently working on [Google Cybersecurity Professional Certificate and my Bachelors in Cybersecurity & Assurance Information.](http://https://www.coursera.org/)
 * 🧠  I'm learning Linux, SQL & Python tools
 
 ### Skills
