@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity Student
 ---------------------
 
-Hello, my name is Ladasia Lewis, and I am a cybersecurity professional with impeccable critical thinking, data analysis and time management skills. I am committed to the firm belief that securing and protecting an organization’s data, operating, and networking systems are pivotal to the overall success of the business and the protection of assets and people. By identifying and mitigating potential threats and or risks within an information system, I am fully aware that collaboration and analysis reporting are necessary within any security department. I am most intrigued with Cybersecurity due to the complex and investigative day to day environments and responsibilities, along with working with other field professionals.
+Hello, my name is Ladasia Lewis, and I am a cybersecurity professional with impeccable critical thinking, data analysis and time management skills. I am committed to the firm belief that securing and protecting an organization’s data, operating, and networking systems are pivotal to the overall success of the business and the protection of assets and people. By identifying and mitigating potential threats and or risks within an information system, I am fully aware that collaboration and analysis reporting are necessary within any information technology department. I am most intrigued with Cybersecurity due to the complex and investigative day to day environments and responsibilities, along with working with other field professionals.
 
 * 🌍  I'm based in Maryland
 * ✉️  You can contact me at [Ladasialewiss72@gmail.com](mailto:Ladasialewiss72@gmail.com)
